@@ -1,0 +1,21 @@
+header img {
+  width: 200px;
+  height: 200px;
+}
+header p{
+  font-size: 15px;
+}
+#fo{
+  padding: 0;
+  margin-top: 0;
+  border-style: groove;
+  }
+  #p1{
+    text-align: left;
+  }
+  #p2{
+    text-align: center;
+  }
+  #p3{
+    text-align: right;
+  }
